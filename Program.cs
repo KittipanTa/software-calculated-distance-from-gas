@@ -55,13 +55,5 @@ namespace software_calculate_distance_from_gas
             
             }
         }
-        class TestVehicle
-        {
-            public void TestCalculateDistance()
-            {
-                Vehicle vehicle = new Vehicle(10);
-                double distance = vehicle.CalculateDistance();
-            }
-        }
     
 }
